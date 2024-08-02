@@ -1,0 +1,13 @@
+{
+  "thisServer":{
+    "appName": "icp",
+    "port": 8000
+  },
+  "database": {
+    "uri": "data/db.sqlite"
+  },
+  "redis": {
+    "url": "localhost",
+    "port": 6379
+  }
+}
